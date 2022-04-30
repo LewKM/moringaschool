@@ -12,4 +12,12 @@ body{
 }
 .btn{
     font-size: 25px;
+    background-color: #EC4067;
+}
+.navright{
+    text-align: right;
+}
+.mor{
+    font-size: 30px;
+    color: #EC4067;
 }

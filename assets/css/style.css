@@ -21,3 +21,13 @@ body{
     font-size: 30px;
     color: #EC4067;
 }
+.img1{
+    min-width: 50px;
+    min-height: 100px;
+}
+.p1{
+    width: 100%;
+}
+.stor{
+    font-size: 25px;
+}

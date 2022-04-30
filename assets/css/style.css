@@ -30,4 +30,14 @@ body{
 }
 .stor{
     font-size: 25px;
+    font-family: 'Nunito';
+}
+.h2{
+    color: #EC4067;
+}
+.con{
+    color: #EC4067;
+}
+.ld{
+    font-size: 25px;
 }

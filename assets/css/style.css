@@ -9,14 +9,14 @@ body{
 }
 .cour{
     font-size: 20px;
+    text-align: right;
 }
 .btn{
     font-size: 25px;
     background-color: #EC4067;
+    align-items: right;
 }
-.navright{
-    text-align: right;
-}
+
 .mor{
     font-size: 30px;
     color: #EC4067;

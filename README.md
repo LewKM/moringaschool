@@ -1,7 +1,7 @@
 # Moringa-School
  ## Lewis Mwendwa Kathembe
 ## Screenshot
- ![image](./assets/morsch.png)
+ ![image](./assets/images/screenshot.png)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)

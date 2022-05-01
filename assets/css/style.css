@@ -21,10 +21,7 @@ body{
     font-size: 30px;
     color: #EC4067;
 }
-.img1{
-    min-width: 50px;
-    min-height: 100px;
-}
+
 .p1{
     width: 100%;
 }
@@ -46,5 +43,41 @@ footer{
     text-align: center;
     height: 100px;
     background-color: aliceblue;
-    text-
+    
+}
+.img{
+    margin: 3%;
+    position: relative;
+}
+.ck{
+    position: absolute;
+    bottom: 1px;
+    left: 10px;
+    color: white;
+    font-size: 30px;
+    font: 'Nunito';
+}
+.top{
+    position: absolute;
+    top: 10px;
+    left: 1100px;
+    color: white;
+    font-size: 30px;
+    font: 'Nunito';
+}
+.img3{
+    position: absolute;
+    bottom: 1px;
+    left: 900px;
+    color: white;
+    font-size: 30px;
+    font: 'Nunito';
+}
+.tl{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 30px;
+    font: 'Nunito';
 }

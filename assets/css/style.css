@@ -1,6 +1,7 @@
 body{
     font-family: 'Nunito';
     object-fit: contain;
+    float: center;
 }
 .nav{
     font-size: 30px;
@@ -127,7 +128,8 @@ footer{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
     padding: 16px;
     text-align: center;
-    background-color: #f1f1f1;
+    background-color: white;
+    border: hidden;
 
   }
 .row {
@@ -137,7 +139,7 @@ footer{
 .img1{
     float: right;
     height: 300px;
-    width: 600px;
+    width: 500px;
     margin: 0px 0px 15px 20px;
     object-fit: cover;
 }
@@ -196,7 +198,17 @@ footer{
 .img8{
     float: center;
     height: 200px;
-    width: 320px;
-    margin: 0px 50px 15px 20px;
+    width: 300px;
+    margin: 10px 50px 15px 20px;
     object-fit: cover;
 }
+li{
+    display: inline;
+    border-right: 1px #bbb;
+}
+li:last-child {
+    border-right: none;
+  }
+.x-scroll-disabled {
+    overflow-x: hidden;
+    }

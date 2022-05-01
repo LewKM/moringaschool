@@ -57,4 +57,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 [Go Back to the top](#moringa-school)
 ## Authors Info
-Slack Profile - 
+Email - lewis.mwendwa@student.moringaschool.com

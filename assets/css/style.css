@@ -12,9 +12,16 @@ body{
     text-align: right;
 }
 .btn{
-    font-size: 25px;
+    font-size: 20px;
     background-color: #EC4067;
     align-items: right;
+    color: white;
+    border-style: hidden;
+    border-radius: 5%;
+    text-align: center;
+    width: auto; 
+    height: 45px; 
+    padding: 10px;
 }
 
 .mor{
@@ -80,4 +87,28 @@ footer{
     color: white;
     font-size: 30px;
     font: 'Nunito';
+}
+.nurture{
+    font-size: 40px;
+    color: #EC4067;
+}
+.btne{
+    font-size: 25px;
+    background-color: white;
+    align-items: right;
+    color: #EC4067;
+    border-color: #EC4067;
+    width: auto; 
+    height: 45px; 
+    border-radius: 0%;
+}
+.p1{
+    font-size: 30px;
+}
+.tm{
+    font-size: 17px;
+}
+.web{
+    color: #EC4067;
+    font-size: 19px;
 }
